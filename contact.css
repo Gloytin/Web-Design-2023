@@ -226,14 +226,14 @@
 
       .content-4 h1 {
         display: flex;
-        padding: 2rem 3rem;
+        padding: 1.3rem 3rem;
         font-family: 'Courier New', Courier, monospace;
         font-size: 18px;
     }
 
     .content-4 p {
       display: flex;
-      margin-top: 4rem;
+      margin-top: 1.8rem;
       padding-bottom: 2rem;
       justify-content: center;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
