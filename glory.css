@@ -10,7 +10,7 @@ img {
 
 html {
     min-height: 100%;
-    background: url(./background.jpg);
+    background: url(image/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -169,14 +169,14 @@ html {
         line-height: 1.5em;
         font-size: calc(20px + 0.390635);
         justify-content: center;
-        background-color: rgba(102, 220, 250, 0.3);
+        background-color: rgba(102, 220, 250, 0.9);
         border-radius: 30px;
         
     }
 
     .content-2 {
         display: flex;
-        margin-top: 2rem;
+        margin-top: 5rem;
         width: 100%;
     }
 
