@@ -217,7 +217,7 @@
 
       .content-4 {
         display: flex;
-        position: absolute;
+        position: fixed;
         flex-direction: column;
         width: 100%;
         bottom: 0;  
@@ -234,7 +234,7 @@
     .content-4 p {
       display: flex;
       margin-top: 1.8rem;
-      padding-bottom: 2rem;
+      padding-bottom: 1.3rem;
       justify-content: center;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       font-size: 0.8rem;
